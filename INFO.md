@@ -1,6 +1,0 @@
-git is awesome
-new line
-experiment with amend
-new data
-baza
-Cross the line
